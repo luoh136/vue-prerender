@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,n,s){"use strict";s.r(n);var e=function(){var t=this,n=t.$createElement,s=t._self._c||n;return s("div",{staticClass:"about"},[s("h1",[t._v(t._s(t.msg))])])},u=[],i={data:function(){return{msg:"等待加载"}},mounted:function(){this.getList()},methods:{getList:function(){this.msg="异步加载数据"}}},o=i,a=s("2877"),c=Object(a["a"])(o,e,u,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=about.f4428ac8.js.map
